@@ -1,0 +1,5 @@
+[0m[[0m[0mdebug[0m] [0m[0mCopy resource mappings: [0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/Users/danielparkes/workspace/frontend2/conf/logback.xml,/Users/danielparkes/workspace/frontend2/target/scala-2.13/classes/logback.xml)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/Users/danielparkes/workspace/frontend2/conf/messages,/Users/danielparkes/workspace/frontend2/target/scala-2.13/classes/messages)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/Users/danielparkes/workspace/frontend2/conf/application.conf,/Users/danielparkes/workspace/frontend2/target/scala-2.13/classes/application.conf)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/Users/danielparkes/workspace/frontend2/conf/routes,/Users/danielparkes/workspace/frontend2/target/scala-2.13/classes/routes)[0m
